@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="class-problem\class_problem.cpp" />
+    <ClCompile Include="class_problem\classy.cpp" />
     <ClCompile Include="stringstream\stringstream.cpp" />
     <ClCompile Include="strings\strings.cpp" />
     <ClCompile Include="structs\structs.cpp" />

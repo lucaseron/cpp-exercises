@@ -24,5 +24,11 @@
     <ClCompile Include="structs\structs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="class-problem\class_problem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="class_problem\classy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
