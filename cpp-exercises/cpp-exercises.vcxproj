@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="stringstream\stringstream.cpp" />
     <ClCompile Include="strings\strings.cpp" />
+    <ClCompile Include="structs\structs.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
