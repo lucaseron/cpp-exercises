@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="box_it\box_it.cpp" />
     <ClCompile Include="class-problem\class_problem.cpp" />
     <ClCompile Include="classes_and_objects\classes_and_objects.cpp" />
     <ClCompile Include="class_problem\classy.cpp" />

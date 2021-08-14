@@ -33,5 +33,8 @@
     <ClCompile Include="classes_and_objects\classes_and_objects.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="box_it\box_it.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
