@@ -30,5 +30,8 @@
     <ClCompile Include="class_problem\classy.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="classes_and_objects\classes_and_objects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
