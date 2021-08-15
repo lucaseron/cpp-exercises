@@ -26,6 +26,7 @@
     <ClCompile Include="stringstream\stringstream.cpp" />
     <ClCompile Include="strings\strings.cpp" />
     <ClCompile Include="structs\structs.cpp" />
+    <ClCompile Include="vector_sort\vector_sort.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
